@@ -1,0 +1,22 @@
+#logo {
+    position: fixed;
+    top:175px;
+    margin:auto;
+    }
+#search {
+    position: absolute;
+    top: 300px;
+    right:600px;
+    border: 1px solid black;
+    margin: auto;		
+    }
+#top li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 60px;
+    display: inline;
+    }
+
+

@@ -1,0 +1,25 @@
+<!DOCTYPE>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>Google</title>
+</head>
+<body>
+
+<ul id="top">
+    
+   <li><a href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.nl/%3Fgfe_rd%3Dcr%26ei%3DMJBYVKCbK6uF8QeI5IHwCQ%26gws_rd%3Dssl"><img src="http://opti.snapfish.com/db/USA/meijer/meijerPhotoPage/assetsreskin/sign_in_button.gif"></a></li>
+   
+    <li><a href="http://www.google.com/intl/en/options/"><img src="http://www.pd4pic.com/images/black-flat-grey-cubes-squares-theme-icon-square.png" width=30px height=30px></a></li>
+    
+     <li><a href="https://www.google.nl/imghp?hl=en&tab=wi&ei=MZBYVNXGDISraYz3gqAM&ved=0CAQQqi4oAg">Images</a></li>
+     <li><a href="https://mail.google.com/mail/?tab=wm">Gmail</a></li>
+    <li><a href="https://plus.google.com/?gpsrc=ogpy0&tab=wX">+You</a></li>
+</ul>  
+
+<div style="text-align: center;"><img id="logo" src="http://www.droid-life.com/wp-content/uploads/2014/01/google-logo-flat-new.jpg" width="300" height="125"></div>
+
+<form>
+<div top:339px; position: absolute; right: 500px><input id="search" type="text" name="search" size="75"></div>
+</form>
+
